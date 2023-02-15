@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfheiter
 - 👀 I’m interested in mathematics and any kind of algorithms 
-- 🌱 I’m currently learning SFML Game 
+- 🌱 I’m currently learning Swift UI
 
 <!---
 pfheiter/pfheiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
